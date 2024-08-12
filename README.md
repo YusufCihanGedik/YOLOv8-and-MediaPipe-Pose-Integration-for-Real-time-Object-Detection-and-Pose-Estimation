@@ -7,7 +7,7 @@ MediaPipe Pose Landmarker: İnsan vücudunun önemli iskelet noktalarını tespi
 Gerçek Zamanlı İşleme: Video akışları üzerinden gerçek zamanlı tespit ve poz tahmini gerçekleştirilir.
 
 ## Gereksinimler
-Python 3.x
-OpenCV
-MediaPipe
+Python 3.x </br>
+OpenCV </br>
+MediaPipe </br>
 ultralytics (YOLOv8)
